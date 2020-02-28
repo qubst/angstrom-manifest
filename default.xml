@@ -16,7 +16,6 @@
 
   <project remote="bitbucket" name="gen_dev_sst/meta-kde4" path="sources/meta-kde4" revision="4287bd4a5e23e084b1f9e9d3235b4248bbe772f6"/>
 
-  <project remote="github" name="schnitzeltony/meta-gumstix-community" path="sources/meta-gumstix-community" revision="c4d7973f18fa8acb632f47e9ead074988d535343"/>
   <project remote="github" name="openembedded/openembedded-core" path="sources/openembedded-core" revision="fido" />
   <project remote="github" name="openembedded/meta-openembedded" path="sources/meta-openembedded" revision="fido" />
   <project remote="github" name="openembedded/bitbake" path="sources/bitbake" revision="1.26"/>
